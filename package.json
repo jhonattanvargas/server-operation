@@ -1,0 +1,25 @@
+{
+  "name": "server-operation",
+  "version": "1.0.0",
+  "description": "server with a basic math operation on c++",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "server",
+    "operation",
+    "c++"
+  ],
+  "author": "jhonattan vargas",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "suma-c-jhonattan-1": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}

@@ -1,0 +1,11 @@
+tr.ng-enter{
+  animation: fadeIn 1s;
+}
+tr.ng-leave{
+  animation: fadeOut 1s;
+}
+
+mark {
+    background-color: #ffe6e6;
+    color: black;
+}
